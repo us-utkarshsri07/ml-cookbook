@@ -1,7 +1,7 @@
 # Python Machine Learning Cookbook - Code Implementations
 
 <p align="center">
-  <img src="book-cover.jpg" alt="Python Machine Learning Cookbook by Chris Albon" width="400"/>
+  <img src="book-cover.png" alt="Python Machine Learning Cookbook by Chris Albon" width="400"/>
 </p>
 
 This repository contains my personal code implementations for the **"Python Machine Learning Cookbook: Practical Solutions from Preprocessing to Deep Learning"** by **Chris Albon**.
@@ -36,7 +36,7 @@ Each notebook file (`.ipynb`) corresponds to a chapter from the book.
 * **Chapter 20:** [Model Saving & Loading](chap20.ipynb) - *(Assuming you have this file)*
 * **Chapter 21:** [Deep Learning](chap21.ipynb) - *(Assuming you have this file)*
 
-*(Note: You can edit the list above to add the actual chapter titles from the book!)*
+
 
 ---
 
